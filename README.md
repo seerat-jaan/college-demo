@@ -1,2 +1,4 @@
 # college-demo
-my first repository
+My first repository
+Author - seerat
+
